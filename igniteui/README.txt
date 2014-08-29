@@ -1,0 +1,1 @@
+﻿Place the \js and \css folders from the jQuery build in this folder
